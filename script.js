@@ -39,11 +39,11 @@
 
 
         const texts = [
-            "Anime",
-            "Indo",
-            "Gratis",
-             "AntiIklan",
-                "AntiBerlangganan",
+            "Anime Gratis",
+            "Anime Indo",
+            "Anime Sepuasnya",
+             "Anime Anti Iklan",
+                "Anime Anti Berlangganan",
         ]
         
         let speed = 100;
